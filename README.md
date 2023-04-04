@@ -9,6 +9,11 @@ The repository includes the following components:
 - `HPPE`: Headline post-processing script for selecting generated headlines based on POS Tags matching.
 - `examples`: Generated headlines and their corresponding POS-tag patterns
 
+
+## Executing Code
+
+1. Download Urdu News Headlines dataset from [here](https://data.mendeley.com/public-files/datasets/834vsxnb99/files/60d1e75f-7d9a-4b24-99df-33174cd49094/file_downloaded)
+
 To use the code, please follow the instructions in the README.md file. The repository is open-source and welcomes contributions from the community.
 
 Note: This repository is provided for research purposes only and is not intended for commercial use.
