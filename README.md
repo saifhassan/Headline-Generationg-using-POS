@@ -11,9 +11,28 @@ The repository includes the following components:
 
 
 ## Executing Code
+### Cloning repository
+- Clone this repository using following command:
+```
+git clone https://github.com/saifhassan/Headline-Generationg-using-POS.git
+```
 
-1. Download Urdu News Headlines dataset from [here](https://data.mendeley.com/public-files/datasets/834vsxnb99/files/60d1e75f-7d9a-4b24-99df-33174cd49094/file_downloaded)
+### Downloading Dataset
+The dataset which is used for Urdu News Headlines is taken from [here](https://data.mendeley.com/public-files/datasets/834vsxnb99/files/60d1e75f-7d9a-4b24-99df-33174cd49094/file_downloaded). There are two ways to produce same results as mentioned in paper. 
 
-To use the code, please follow the instructions in the README.md file. The repository is open-source and welcomes contributions from the community.
+1. First, Download original dataset and process through [Notebook](https://github.com/saifhassan/Headline-Generationg-using-POS/blob/main/post-processing.ipynb).
+
+OR
+
+2. Another way is, we have already pre-processed dataset. You can download pre-processed dataset with POS Tags from [here](https://drive.google.com/file/d/1cZFm_JoBv7nE7-LfitRcNMf7OLhgcsEo/view?usp=sharing)
+
+3. Put downloaded dataset in data folder.
+
+### Running notebook
+
+- Go to HPPE directory within main directory and open notebook using terminal and execute code.
+
+
+The repository is open-source and welcomes contributions from the community.
 
 Note: This repository is provided for research purposes only and is not intended for commercial use.
