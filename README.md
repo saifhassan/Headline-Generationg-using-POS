@@ -20,7 +20,7 @@ git clone https://github.com/saifhassan/Headline-Generationg-using-POS.git
 ### Downloading Dataset
 The dataset which is used for Urdu News Headlines is taken from [here](https://data.mendeley.com/public-files/datasets/834vsxnb99/files/60d1e75f-7d9a-4b24-99df-33174cd49094/file_downloaded). There are two ways to produce same results as mentioned in paper. 
 
-1. First, Download original dataset and process through [Notebook](https://github.com/saifhassan/Headline-Generationg-using-POS/blob/main/post-processing.ipynb).
+1. First, Download original dataset and process through [Notebook](https://github.com/saifhassan/Headline-Generationg-using-POS/blob/main/HPPE/post-processing.ipynb).
 
 OR
 
